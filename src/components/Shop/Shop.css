@@ -27,5 +27,13 @@
 }
 
 .pagination{
-    
+    text-align: center;
+}
+.pagination button {
+    margin-right: 10px;
+    background: #6d470e;
+}
+
+.pagination .selected {
+    background: #e29f3a;
 }
